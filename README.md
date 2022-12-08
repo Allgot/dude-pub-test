@@ -1,6 +1,6 @@
 For debugging 'prosyslab/dude'
 =============
-# 1. Test with @v1.0.0 only
+# 1. Test with @v1.0.0
 ```
 Error: I cannot find the root of the current workspace/project.
 If you would like to create a new dune project, you can type:
@@ -26,3 +26,5 @@ Success!
   
 ## Report:
 Therefore, we can conclude that **action does not contain `dune-project`, `dune` and `dup_scan.ml`** which are essential for scanning.
+
+# 2. Test with @v1.0.1
