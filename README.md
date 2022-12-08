@@ -1,8 +1,7 @@
 For debugging 'prosyslab/dude'.
 
 
-Test1 with @v1.0.0
-: 
+Test1 with @v1.0.0 only: 
 ```
 Error: I cannot find the root of the current workspace/project.
 If you would like to create a new dune project, you can type:
@@ -14,10 +13,14 @@ https://dune.readthedocs.io/en/stable/usage.html#finding-the-root
 ```
 
 
-Added dune-project into my repo.
-:
+Added dune-project into my repo:
 ```
 Error: Program "./dup_scan.exe" not found!
 ```
 
-Added dup_scan.ml into my repo.
+Added dup_scan.ml into my repo:
+```
+Error: Program "./dup_scan.exe" not found!
+```
+
+Added dune into my repo:
