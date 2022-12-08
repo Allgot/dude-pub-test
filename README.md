@@ -16,3 +16,8 @@ https://dune.readthedocs.io/en/stable/usage.html#finding-the-root
 
 Added dune-project into my repo.
 :
+```
+Error: Program "./dup_scan.exe" not found!
+```
+
+Added dup_scan.ml into my repo.
