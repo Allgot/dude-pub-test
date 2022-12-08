@@ -14,5 +14,5 @@ https://dune.readthedocs.io/en/stable/usage.html#finding-the-root
 ```
 
 
-Added dune into my repo.
+Added dune-project into my repo.
 :
