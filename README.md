@@ -35,3 +35,6 @@ scan it again through symlink "sys/bus/pnp/drivers/i8042 aux/00:02/driver"
 ```
 
 # 3. Test with @v1.0.2
+same.
+
+# 4. Test with @v1.0.3
