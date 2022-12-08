@@ -28,3 +28,10 @@ Success!
 Therefore, we can conclude that **action does not contain `dune-project`, `dune` and `dup_scan.ml`** which are essential for scanning.
 
 # 2. Test with @v1.0.1
+```
+Entering directory '/'
+Error: Path "sys/bus/pnp/drivers/i8042 aux" has already been scanned. Cannot
+scan it again through symlink "sys/bus/pnp/drivers/i8042 aux/00:02/driver"
+```
+
+# 3. Test with @v1.0.2
